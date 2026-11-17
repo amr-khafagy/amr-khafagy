@@ -2,9 +2,9 @@
 
 ## Flutter Developer | Mobile Application Engineer
 
-Mobile Application Engineer with **3+ years of experience** building reliable, scalable mobile applications with Flutter. I enjoy turning product ideas into polished experiences, from architecture and APIs to production releases.
+Mobile Application Engineer with **4+ years of experience** building reliable, scalable mobile applications with Flutter. I enjoy turning product ideas into polished experiences, from architecture and APIs to production releases.
 
-- 📱 **250K+ total app downloads** across applications I have worked on
+- 📱 **180K+ total app downloads** across applications I have worked on
 - 🛍️ Experience across **E-commerce, POS, Social Platforms, Delivery, and Education**
 - 🛡️ Interested in **Web Penetration Testing** and **Bug Bounty**
 
