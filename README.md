@@ -31,15 +31,21 @@ Mobile Application Engineer with **4+ years of experience** building reliable, s
 
 **Languages:** Dart, Java, C++
 
-**Mobile Development:** Flutter, GetX, Cubit/BLoC
+**Mobile Development:** Flutter, GetX, Cubit/BLoC, Platform Channels
 
-**Architecture:** Clean Architecture, MVVM, MVC
+**Architecture:** Clean Architecture, MVVM, MVC, Repository Pattern, Dependency Injection
 
-**Networking:** REST, GraphQL, Dio
+**Networking:** REST, GraphQL, Dio, WebSockets, HTTP
 
-**Backend & Storage:** Firebase, Firestore, Realtime Database, SQLite
+**Firebase & Storage:** Firebase Authentication, Firestore, Realtime Database, Firebase Storage, FCM, Crashlytics, Dynamic Links, SQLite, Shared Preferences, Flutter Secure Storage
 
-**Tools:** Git, GitHub, Postman, Swagger, Jira, Sentry
+**Integrations:** Payment Gateways, Google Maps, Geolocation, Live Tracking, Deep Linking, Push Notifications
+
+**Quality & Delivery:** Unit Testing, Widget Testing, Integration Testing, Mocktail, bloc_test, GitHub Actions, Codemagic, Fastlane, Google Play & App Store Deployment
+
+**Tools:** Git, GitHub, Postman, Swagger, Jira, Sentry, Figma
+
+**Practices:** SOLID, Clean Code, Git Flow, Pull Requests, Code Reviews, Agile/Scrum, Performance Optimization
 
 ## Connect With Me
 
